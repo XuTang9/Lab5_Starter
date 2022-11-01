@@ -31,9 +31,6 @@ function init() {
   const play = document.querySelector('button')
 
   play.addEventListener('click',(event)=>{
-    if(horn_select=="select"){
-      return;
-    }
     if(horn_select.value=="party-horn"){
       jsConfetti.addConfetti({
         emojis: ['🌸'],
