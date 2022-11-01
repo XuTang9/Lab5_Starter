@@ -3,4 +3,4 @@ Xu Tang
 
 Expose:
 
-https://github.com/XuTang9/Lab5_Starter/expose.html
+https://xutang9.github.io/Lab5_Starter/expose.html
